@@ -46,9 +46,21 @@ Below is a sample of my projects, designed to demonstrate the application of **d
 | **Key Features** | Detailed meal logging and calculation of **Macronutrients** (Proteins, Fats, Carbohydrates). Daily progress indicators using visual **Progress Bars**. |
 | **Storage** | Entered foods are stored locally for quick re-entry in the future. |
 | **Applied Technologies** | **SwiftUI** for the UI and **Core Data** to ensure data persistence across sessions. |
-| **Project Link** | [View Repository](https://github.com/josetomd/Macronutrients) |
+| **Project Link** | [View Repository](https://github.com/josetomd/Macrounter) |
 
-### 3. 🔔 Reminders and To-Dos List
+### 3. 🥗 Rick and Morty API
+
+| Feature | Detail |
+| :--- | :--- |
+| **Description** | An iOS application built with SwiftUI that consumes the Rick and Morty API to explore characters and their episode appearances. The project follows a clean MVVM architecture and demonstrates professional networking patterns, including dependency injection and parallel data fetching. |
+| **Key Features** | Swift concurrency, (async-await, parallel fetches), clean MVVM architecture. |
+| **Storage** | Real Data is stored in Core Data. Includes a secondary service layer that loads local JSON files, allowing for reliable unit testing and SwiftUI preview development without hitting the live API. |
+| **Applied Technologies** | **SwiftUI** for the UI and **Core Data** to ensure data persistence across sessions. |
+| **Project Link** | [View Repository](https://github.com/josetomd/RickAndMortyAPI) |
+
+https://github.com/josetomd/RickAndMortyAPI
+
+### 4. 🔔 Reminders and To-Dos List
 
 | Feature | Detail |
 | :--- | :--- |
