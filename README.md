@@ -20,7 +20,7 @@ My experience is centered on the iOS ecosystem, covering everything from data pe
 | **Interfaces** | **SwiftUI**, **UIKit**, **Animations** | 🎨 |
 | **Architecture** | **MVVM** (Model-View-ViewModel), **MVC** | 🏗️ |
 | **State Management** | **Combine** (Reactive Programming), **Core Data** | 🔄 |
-| **Development** | **Git** (Version Control), **CI/CD** (Concepts) | ⚙️ |
+| **Development** | **Git** (Version Control), **CI/CD** (Concepts), **Testing** (XCTest) | ⚙️ |
 | **Tools** | **Xcode** |  |
 
 ---
@@ -28,17 +28,9 @@ My experience is centered on the iOS ecosystem, covering everything from data pe
 ## 🚀 Featured Projects (Portfolio)
 
 Below is a sample of my projects, designed to demonstrate the application of **design patterns**, data persistence with **Core Data**, and interface development with **SwiftUI**.
-
-### 1. 🗓 Appointment Scheduling App
-
-| Feature | Detail |
-| :--- | :--- |
-| **Description** | Application designed to efficiently manage client schedules and services, ideal for beauty service providers. |
-| **Key Features** | Scheduling, editing, and deleting appointments. Automated **Local Notifications** sent minutes prior to the service as a reminder. |
-| **Applied Technologies** | Interface fully built with **SwiftUI** and persistent data management using **Core Data**. |
-| **Project Link** | [View Repository](https://github.com/josetomd/Zyliet-Shop) |
-
-### 2. 🥗 Macronutrient Counter
+  
+### 1. 🥗 Macronutrient Counter
+<img width="250" alt="home-2" src="https://github.com/user-attachments/assets/21518ab6-fbf2-4bec-851d-bdc6d6b723ec" />
 
 | Feature | Detail |
 | :--- | :--- |
@@ -48,7 +40,9 @@ Below is a sample of my projects, designed to demonstrate the application of **d
 | **Applied Technologies** | **SwiftUI** for the UI and **Core Data** to ensure data persistence across sessions. |
 | **Project Link** | [View Repository](https://github.com/josetomd/Macrounter) |
 
-### 3. 🥗 Rick and Morty API
+### 2. 🥗 Rick and Morty API
+<img width="250" alt="home" src="https://github.com/user-attachments/assets/a6403be3-d5d7-44e0-b34d-04e87c912871" />
+
 
 | Feature | Detail |
 | :--- | :--- |
@@ -58,19 +52,17 @@ Below is a sample of my projects, designed to demonstrate the application of **d
 | **Applied Technologies** | **SwiftUI** for the UI and **Core Data** to ensure data persistence across sessions. |
 | **Project Link** | [View Repository](https://github.com/josetomd/RickAndMortyAPI) |
 
-https://github.com/josetomd/RickAndMortyAPI
 
-### 4. 🔔 Reminders and To-Dos List
+### 3. 🗓 Appointment Scheduling App
+<img width="250" alt="home" src="https://github.com/user-attachments/assets/01e4ae24-245e-491e-ae35-6fbda2658b45" />
 
 | Feature | Detail |
 | :--- | :--- |
-| **Description** | A classic task management and reminders solution with a robust system for scheduled notifications. |
-| **Key Features** | Storage for text-based to-dos, ability to set a due date and receive a precise **Local Notification** at the scheduled time. |
-| **Organization** | Advanced filters for viewing: scheduled notifications, completed tasks, current day tasks, or all records. |
-| **Applied Technologies** | Interface built with **SwiftUI** and information handling via **Core Data**. |
-| **Project Link** | [View Repository](https://github.com/josetomd/Reminders) |
+| **Description** | Application designed to efficiently manage client schedules and services, ideal for beauty service providers. |
+| **Key Features** | Scheduling, editing, and deleting appointments. Automated **Local Notifications** sent minutes prior to the service as a reminder. |
+| **Applied Technologies** | Interface fully built with **SwiftUI** and persistent data management using **Core Data**. |
+| **Project Link** | [View Repository](https://github.com/josetomd/Zyliet-Shop) |
 
----
 
 ## 🔗 Connect With Me
 
