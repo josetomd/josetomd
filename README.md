@@ -28,17 +28,17 @@ My experience is centered on the iOS ecosystem, covering everything from data pe
 ## 🚀 Featured Projects (Portfolio)
 
 Below is a sample of my projects, designed to demonstrate the application of **design patterns**, data persistence with **Core Data**, and interface development with **SwiftUI**.
-  
-### 1. 🥗 Macronutrient Counter
-<img width="250" alt="home-2" src="https://github.com/user-attachments/assets/21518ab6-fbf2-4bec-851d-bdc6d6b723ec" />
+
+### 1. 🥗 MacroLite
+<img width="250" alt="home-2" src="https://github.com/user-attachments/assets/ac784795-a43a-44e4-8ce6-6588adb9b63e" />
 
 | Feature | Detail |
 | :--- | :--- |
 | **Description** | A personal tracking tool for monitoring daily nutrient intake, helping users meet their dietary goals. |
-| **Key Features** | Detailed meal logging and calculation of **Macronutrients** (Proteins, Fats, Carbohydrates). Daily progress indicators using visual **Progress Bars**. |
+| **Key Features** | Detailed meal logging and calculation of **Macronutrients** (Proteins, Fats, Carbohydrates). Daily progress indicators using visual **Progress Rings**. |
 | **Storage** | Entered foods are stored locally for quick re-entry in the future. |
-| **Applied Technologies** | **SwiftUI** for the UI and **Core Data** to ensure data persistence across sessions. |
-| **Project Link** | [View Repository](https://github.com/josetomd/Macrounter) |
+| **Applied Technologies** | **SwiftUI** for the UI and **Swift Data** to ensure data persistence across sessions. |
+| **Project Link** | [View Repository](https://github.com/josetomd/macrolite) |
 
 ### 2. 🥗 Rick and Morty API
 <img width="250" alt="home" src="https://github.com/user-attachments/assets/a6403be3-d5d7-44e0-b34d-04e87c912871" />
