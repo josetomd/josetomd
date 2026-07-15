@@ -42,7 +42,23 @@ Below is a sample of my projects, designed to demonstrate the application of **d
 | **Applied Technologies** | **SwiftUI** for the UI and **Swift Data** to ensure data persistence across sessions. |
 | **Project Link** | [View Repository](https://github.com/josetomd/macrolite) |
 
-### 2. 🧠 Rick and Morty API
+
+
+### 2. 📖 DevDocs Reader (Offline Documentation)
+
+<img width="200" alt="home-docker-left" src="https://github.com/user-attachments/assets/0af9b58f-a148-4fe6-9c16-c3092ce234b3" />
+
+
+| Feature | Detail |
+| :--- | :--- |
+| **Description** | A native iOS application designed to download, cache, and browse technical documentation offline for multiple programming languages by consuming the DevDocs ecosystem. |
+| **Key Features** | • **Dynamic Navigation**: Adaptive routing for both Single-Page and Multi-Page documentations with hierarchical, chapter-based indices.<br>• **Hybrid Asset Strategy**: Smart download algorithm with automatic retry fallback to fetch language icons using either the official API Slug or a normalized group name as a contingency plan.<br>• **Fluid User Experience (UX)**: Temporary UI interaction locking, and native progress HUDs during heavy index downloads.|
+| **Storage** | Local disk persistence, caching JSON indices, database content files, and icons to guarantee a 100% offline experience after the initial download. |
+| **Applied Technologies** | • **SwiftUI** (`@Observable`, `NavigationStack`, `ProgressView`, `@State` transitions)<br>• **WebKit & HTML/CSS** (`UIViewRepresentable`, `WKWebView` customization)<br>• **Swift Concurrency** (`async/await`, `Task`, `MainActor` UI dispatching)<br>• **Testing** (Unit Tests with `XCTest` using Mocking and dependency injection to simulate network failures, filesystem behaviors, and hybrid fallback retries) |
+| **Project Link** | [View Repository](https://github.com/josetomd/devdocs-ios) |
+
+
+### 3. 🧠 Rick and Morty API
 <img width="250" alt="home" src="https://github.com/user-attachments/assets/a6403be3-d5d7-44e0-b34d-04e87c912871" />
 
 
@@ -55,7 +71,7 @@ Below is a sample of my projects, designed to demonstrate the application of **d
 | **Project Link** | [View Repository](https://github.com/josetomd/RickAndMortyAPI) |
 
 
-### 3. 🎬 Movie Discovery App
+### 4. 🎬 Movie Discovery App
 <img width="250" alt="tmab-search-portrait" src="https://github.com/user-attachments/assets/165c64fc-9a7c-4c13-984e-c46d36d0636c" />
 
 | Feature | Detail |
