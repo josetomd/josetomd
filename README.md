@@ -12,7 +12,7 @@ My goal is to join a dynamic team where I can grow, contribute, and apply my kno
 
 ---
 
-## 🛠 Technical Skills (Tech Stack)
+## 🛠 Technical Skills
 
 My experience is centered on the iOS ecosystem, covering everything from data persistence to declarative interface development.
 
@@ -27,7 +27,7 @@ My experience is centered on the iOS ecosystem, covering everything from data pe
 
 ---
 
-## 🚀 Featured Projects (Portfolio)
+## 🚀 Featured Projects
 
 Below is a sample of my projects, designed to demonstrate the application of **design patterns**, data persistence with **Core Data**, and interface development with **SwiftUI**.
 
@@ -42,7 +42,7 @@ Below is a sample of my projects, designed to demonstrate the application of **d
 | **Applied Technologies** | **SwiftUI** for the UI and **Swift Data** to ensure data persistence across sessions. |
 | **Project Link** | [View Repository](https://github.com/josetomd/macrolite) |
 
-### 2. 🥗 Rick and Morty API
+### 2. 🧠 Rick and Morty API
 <img width="250" alt="home" src="https://github.com/user-attachments/assets/a6403be3-d5d7-44e0-b34d-04e87c912871" />
 
 
